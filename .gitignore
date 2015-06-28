@@ -1,0 +1,10 @@
+*.exe
+*.dof
+*.dsk
+*.BAK
+*.dcu
+*.bmp
+*.dsm
+*.res
+*.~*
+
